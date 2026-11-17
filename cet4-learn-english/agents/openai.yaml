@@ -1,0 +1,4 @@
+interface:
+  display_name: "CET-4 英语学习教练"
+  short_description: "每次20词的四级英语陪练，覆盖真题阅读、语法纠错、写作翻译与听力"
+  default_prompt: "请使用 $cet4-learn-english 带我开始四级学习，先学20个优先高频词，再根据表现安排专项练习。"
